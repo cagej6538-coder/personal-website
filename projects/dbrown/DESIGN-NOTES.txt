@@ -1,0 +1,24 @@
+D.BROWN — MIDNIGHT / ELECTRIC
+
+What changed
+- Rebuilt shared styling across all eight pages.
+- Black/charcoal surfaces, electric blue buttons, silver-blue text accents.
+- Circular mouse follower that expands over clickable elements.
+- Animated circular hero graphic and scroll-triggered section entrances.
+- Scroll progress line, responsive mobile navigation, clear focus states.
+- Reduced-motion and touch support. No third-party animation libraries.
+
+Preserved
+All original business copy, service details, policy content, page links,
+and the enquiry draft download are retained. The source upload had no
+verified email or phone details. The form does not send enquiries.
+
+Verification
+All eight pages checked for local links, anchors, and content preservation.
+JavaScript syntax and isolated interaction logic checks passed, covering
+menu controls, cursor hover, touch fallback, reduced motion, progress,
+service selection, and draft downloads. A real browser render was not
+available in this environment; preview locally before client delivery.
+
+Open index.html to preview. Upload the contents of this folder to your
+GitHub Pages repository root. Keep the complete folder together.
